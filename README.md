@@ -10,6 +10,10 @@ A Java-based application developed to manage student registration for university
 - Display registered participants
 - Provide a graphical user interface (GUI) for easier interaction
 
+  ## Application Screenshot
+
+![Smart Campus Activity Booking System GUI](smart-campus-gui.png)
+
 ## Programming Paradigms
 
 The system was implemented using three different programming paradigms:
